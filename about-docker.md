@@ -7,7 +7,6 @@
 
 <div style="position: relative; padding-bottom: 56.25%; margin: 1em 0;">
 <video
-	loop
 	controls
 	src="http://res.cloudinary.com/de-demo/video/upload/v1521674047/colin_docker.mp4"
 	style="position: absolute;
