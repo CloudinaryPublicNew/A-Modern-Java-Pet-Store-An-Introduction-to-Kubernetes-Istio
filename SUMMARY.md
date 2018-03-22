@@ -17,4 +17,6 @@
 
 * [Introduction](/Shazam/introduction.md)
 * [Dockerizing the Application](Shazam/dockerizing-the-application.md)
+* [Deploying it with Kubernetes](Shazam/deploying-it-with-kubernetes.md)
+* [The new UX with AI](the-new-ux-with-ai.md)
 
