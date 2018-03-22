@@ -38,7 +38,7 @@ Finally, to build a zip file of images for each class, search by tag and select 
 
 ![](/assets/download-zip.png)
 
- 
+
 2. [Train your custom model](https://dataplatform.ibm.com/docs/content/analyze-data/visual-recognition-train.html)
  
    In the Visual Recognition model builder, define your classes and add images.
