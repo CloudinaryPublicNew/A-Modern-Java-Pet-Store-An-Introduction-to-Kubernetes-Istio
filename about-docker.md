@@ -1,6 +1,4 @@
-#About Docker
-
-
+#Case Study: Cloudinary & Docker
 
 ###Colin Bendell on why we use Docker...
 

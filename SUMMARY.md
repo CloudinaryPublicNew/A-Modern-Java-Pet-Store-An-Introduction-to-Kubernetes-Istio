@@ -4,14 +4,9 @@
 
 * [Introduction](README.md)
 
-## Kubernetes
+## Case Study: Cloudinary & Docker
 
 * [About Docker](about-docker.md)
-* [Getting Started with Kubernetes](/Kubernetes/setup.md)
-
-## Watson
-
-* [Getting Started with IBM Watson](/Watson/intro.md)
 
 ## Shazam for Pets
 
@@ -19,4 +14,10 @@
 * [Dockerizing the Application](Shazam/dockerizing-the-application.md)
 * [Deploying it with Kubernetes](Shazam/deploying-it-with-kubernetes.md)
 * [The new UX with AI](the-new-ux-with-ai.md)
+
+## Watson
+
+* [Getting Started with IBM Watson](/Watson/intro.md)
+
+
 
