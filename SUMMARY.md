@@ -17,7 +17,5 @@
 
 ## Watson
 
-* [Getting Started with IBM Watson](/Watson/intro.md)
-
-
+* [Creating Visual Recognition Models with Cloudinary](/Watson/intro.md)
 
