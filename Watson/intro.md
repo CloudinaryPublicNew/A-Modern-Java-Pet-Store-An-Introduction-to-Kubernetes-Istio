@@ -30,6 +30,14 @@ To simplify your efforts you can use Cloudinary's media library upload tool to s
 In addition, you can also set the public id of the images, folder location and set tags:
 
 ![](/assets/media-search.png)
+
+Simply select similar images and click the upload button:
+![](/assets/select.png)
+
+Finally, to build a zip file of images for each class, search by tag and select the images you want to include in your zip file. Click the download and a zip file of those selected images will be downloaded.
+
+![](/assets/download-zip.png)
+
  
 2. [Train your custom model](https://dataplatform.ibm.com/docs/content/analyze-data/visual-recognition-train.html)
  
