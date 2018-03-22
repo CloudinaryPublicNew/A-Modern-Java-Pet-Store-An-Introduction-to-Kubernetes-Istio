@@ -12,7 +12,7 @@ JPetStore is a traditional Java Enterprise Edition application that demonstrates
 
 Freeman:_The Pet Store Demo is the reference application for J2EE that showcases the main features of the J2EE platform. It’s part of the Blueprints program that seeks to provide best practice guidelines for J2EE application development._
 
-\_Implicit in the Java Pet Store is a set of components that can be reused in other contexts. For example, the Java Pet Store includes a shopping cart, a mailer, and inventory components. It’s our intention that this reference application can be used as a framework for building real-world applications. In addition, recommendations about typical design decisions need to be made, such as JSP versus servlets, stateful versus stateless session beans, and container- versus bean-managed persistence.
+Implicit in the Java Pet Store is a set of components that can be reused in other contexts. For example, the Java Pet Store includes a shopping cart, a mailer, and inventory components. It’s our intention that this reference application can be used as a framework for building real-world applications. In addition, recommendations about typical design decisions need to be made, such as JSP versus servlets, stateful versus stateless session beans, and container- versus bean-managed persistence.
 
 Then I followed these simple steps to modernize infrastructure of the application. I containerized it and brought it to the cloud, and I added an AI powered mobile App as the new UX.
 
