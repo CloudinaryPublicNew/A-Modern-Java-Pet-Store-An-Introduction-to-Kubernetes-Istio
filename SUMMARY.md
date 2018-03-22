@@ -16,4 +16,5 @@
 ## Shazam for Pets
 
 * [Introduction](/Shazam/introduction.md)
+* [Dockerizing the Application](Shazam/dockerizing-the-application.md)
 
