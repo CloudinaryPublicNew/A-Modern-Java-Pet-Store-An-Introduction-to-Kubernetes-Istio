@@ -2,6 +2,9 @@
 
 # Shazam for Pets — Java PetStore on Kubernetes with New UX {#1fb4}
 
+####By Marek Sadowoski 
+> [Republished From Medium](https://medium.com/@blumareks/shazam-for-pets-java-petstore-on-kubernetes-with-new-ux-89b48565242b)
+
 This is the first of series of blog posts on my short adventure on making a great AI powered application — **Shazam for Pets** — from an old fashion and so 2001 Web 2.0 Java application.
 
 > You can find the full project in our [GitHub Repo](https://github.com/blumareks/2018-petstore)
